@@ -118,20 +118,7 @@
 }
 
 
-/* Gallery */
-.gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 18px;
-}
 
-.gallery-grid img {
-  width: 100%;
-  aspect-ratio: 3/4;
-  object-fit: cover;
-  border-radius: 14px;
-  display: block;
-}
 
 /* =========================================================
    TRUE MULTI-PAGE NAVIGATION
