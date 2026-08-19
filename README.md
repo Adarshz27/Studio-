@@ -6,13 +6,13 @@ The contact form sends the submitted client details to WhatsApp.
 To change the destination number, open `script.js` and edit:
 
 ```js
-const WHATSAPP_NUMBER = "918884986006";
+const WHATSAPP_NUMBER = "91888******6";
 ```
 
 Use the full international country code without `+`, spaces or dashes.
 
-Example for an Indian number `8884986006`:
-`918884986006`
+Example for an Indian number `8884*****6`:
+`918884*****6`
 
 ## Contact form
 Required fields:
