@@ -1,5 +1,33 @@
 # Palette Studio Website
-
+Palette Studio Website
+A premium, responsive makeup/beauty studio website created as a fresh UI inspired by the supplied reference, but with a different structure and visual system.
+Files
+index.html — page structure and editable content
+style.css — complete responsive styling
+script.js — loader, mobile navigation, scroll reveal and cursor effects
+Replace NIL
+Search for NIL in index.html and replace:
+Artist name
+Location
+Phone / WhatsApp
+Email
+Instagram
+Experience
+Services and descriptions
+Client reviews
+Image placeholders
+Adding your photos
+Replace the placeholder <div class="gallery-placeholder"> blocks with <img> tags, for example:
+�
+￼
+Create an images folder and place your photos there.
+Deploy on GitHub Pages
+Create a GitHub repository.
+Upload index.html, style.css, script.js, and your images folder.
+Go to Settings → Pages.
+Choose the main branch and root folder.
+Save.
+The Google Fonts import requires internet access. The site still has fallback fonts if the font service is unavailable.
 ## WhatsApp enquiry number
 The contact form sends the submitted client details to WhatsApp.
 
